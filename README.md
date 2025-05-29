@@ -15,7 +15,7 @@ Real-time MEXC SPOT vs PERP Arbitrage Dashboard powered by Panel + WebSocket + C
 - ✅ Multi-token selection from 3000+ PERP/USDT
 - ✅ Built with Python Panel + CCXT Pro
 
-*#CONS AND IMPROVEMENT
+## CONS AND IMPROVEMENT
 - Please select only up to 5 coins, more selection will results in lagness and unworkable condition. 
 
 ## Getting Started
