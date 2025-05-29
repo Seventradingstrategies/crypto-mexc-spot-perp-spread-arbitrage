@@ -1,0 +1,4 @@
+panel
+ccxt
+ccxtpro
+pandas
