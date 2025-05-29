@@ -23,10 +23,13 @@ SS -- https://paste.pics/4ec1839b1e93d33b30d810de7638d20b
 
 ## Getting Started
 
-1. Clone this repo
-2. Install requirements:
+Clone this repo and run:
+
+pip install -r requirements.txt
+python panelv1.23.py
 
 Open `http://localhost:8080` in your browser.
+
 
 
 
